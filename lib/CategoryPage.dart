@@ -42,7 +42,7 @@ class CategoryPage extends StatelessWidget {
         title: Text(
           'Animal Biography',
           style: GoogleFonts.poppins(
-            color: Colors.white,
+            color: Colors.blue,
             fontWeight: FontWeight.bold,
           ),
         ),
